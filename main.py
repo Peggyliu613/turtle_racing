@@ -36,7 +36,7 @@ while start_race:
 if winning_color == bet:
     print("You win!")
 else:
-    print(f"You lose! The winning color is the {winning_color} turtle")
+    print(f"You lose! The winner is the {winning_color} turtle.")
 
 
 screen.exitonclick()
